@@ -135,12 +135,26 @@ span{
 }
 .Container{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
 }
 .box{
-    border: 2px solid black;
     height :400px;
     width: 20%;
     background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+.box1_img{
+    background-image: url("box1.jpg");
+    background-size: cover;
+    height: 300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box1_content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+
 }
