@@ -157,3 +157,47 @@ span{
     margin-left: 1rem;
     margin-right: 1rem;
 }
+.box2_1{
+    background-image: url("box2_1.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box2_content{
+    margin-left: 1rem;
+    margin-right: 1rem;;
+}
+.box2_2{
+    background-image: url("box2_2.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box2_img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box2_3{
+    background-image: url("box2_3.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box2_4{
+    background-image: url("box2_4.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box21{
+    display: flex;
+    justify-content: space-evenly;
+}
