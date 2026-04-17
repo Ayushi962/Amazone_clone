@@ -138,6 +138,7 @@ span{
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
+    height: 450px ;
 }
 .box{
     height :400px;
@@ -198,6 +199,95 @@ span{
     margin-bottom: 1rem;
 }
 .box21{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box3_1{
+    background-image: url("box3_1.jpg");
+    background-size: cover;
+    height: 120px;
+    width: 250px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box3_content{
+    margin-left: 1rem;
+    margin-right: 1rem;;
+}
+.box3_2{
+    background-image: url("box3_2.jpg");
+    background-size: cover;
+    height: 75px;
+    width: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box3_img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box3_3{
+    background-image: url("box3_3.jpg");
+    background-size: cover;
+    height: 75px;
+    width: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box3_4{
+    background-image: url("box3_4.jpg");
+    background-size: cover;
+    height: 75px;
+    width: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box31{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box4_1{
+    background-image: url("box4_1.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box4_content{
+    margin-left: 1rem;
+    margin-right: 1rem;;
+}
+.box4_2{
+    background-image: url("box4_2.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box4_img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box4_3{
+    background-image: url("box4_3.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box4_4{
+    background-image: url("box4_4.jpg");
+    background-size: cover;
+    height: 85px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box41{
     display: flex;
     justify-content: space-evenly;
 }
