@@ -86,9 +86,6 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
-
-
-
 .panel{
     height:40px;
     background-color: #222f3d;
@@ -138,7 +135,7 @@ span{
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
-    height: 450px ;
+    height: 470px ;
 }
 .box{
     height :400px;
@@ -290,4 +287,28 @@ span{
 .box41{
     display: flex;
     justify-content: space-evenly;
+}
+footer{
+    margin-top: 15px;
+}
+.fpannel{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.fpannel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a{
+    margin-top: 10px;
+    display: block;
+    font-size: 0.85rem;
 }
