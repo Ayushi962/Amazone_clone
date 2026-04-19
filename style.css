@@ -331,3 +331,18 @@ ul a{
     height:50px;
     width: 100px;
 }
+.fpannel4{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
+
+}
+.foption{
+    padding-top: 25px;
+}
+.cp{
+    padding-top: 5px;
+
+}
